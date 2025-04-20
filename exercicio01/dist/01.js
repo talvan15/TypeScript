@@ -1,3 +1,2 @@
 "use strict";
-let mensagem = "Olá, Mundo!";
-console.log(mensagem);
+let nome = "Talvan";
